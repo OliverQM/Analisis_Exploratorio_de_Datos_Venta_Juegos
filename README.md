@@ -58,15 +58,6 @@ Este proyecto de Data Analytics explora un dataset de ventas de videojuegos a ni
 
 ---
 
-## 📍 Recomendaciones / Siguientes pasos
-
-- Incluir datos más recientes (PS5, Nintendo Switch).
-- Analizar nuevos factores: calificación, precio, modo de juego, etc.
-- Desarrollar modelos predictivos o de segmentación (clustering).
-- Convertir en dashboard interactivo con Streamlit.
-
----
-
 ## 🧠 Aprendizajes
 
 - Dominio de limpieza de datos con Pandas.
@@ -74,10 +65,3 @@ Este proyecto de Data Analytics explora un dataset de ventas de videojuegos a ni
 - Desarrollo de pensamiento analítico y storytelling con datos.
 - Preparación para roles de Data Analyst en entornos reales.
 
----
-
-## 🚀 Ejecutar el proyecto
-
-1. Clona el repositorio:
-```bash
-git clone https://github.com/tu-usuario/videojuegos-analytics.git
